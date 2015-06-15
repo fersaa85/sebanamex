@@ -1,2 +1,0 @@
-# sebanamex
-proyecto se banamex
